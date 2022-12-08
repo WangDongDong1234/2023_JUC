@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2023_JUC.iml" filepath="$PROJECT_DIR$/.idea/2023_JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC_CODE/JUC_CODE.iml" filepath="$PROJECT_DIR$/JUC_CODE/JUC_CODE.iml" />
     </modules>
   </component>
 </project>
